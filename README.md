@@ -9,7 +9,7 @@ Jogo incremental (também conhecido por idles, ocioso, clicar).
 
 
 ## 🎯 Objetivo
-clicar o máximo de vezes no carro dentro de vinte segundos, o carro aumenta a velocidade e muda a direção em cada clique acertado.
+Clicar o máximo de vezes no carro dentro de vinte segundos, o carro aumenta a velocidade e muda a direção em cada clique acertado.
 
 
 ## ✒️ Justificativa
